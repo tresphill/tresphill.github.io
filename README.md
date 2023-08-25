@@ -1,1 +1,1 @@
-As a student learning full-stack, I will be writing many blog posts - this is the first entry.
+I appreciate you stopping by to check out my lil bloggy blog. :smile:
