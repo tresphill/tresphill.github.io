@@ -9,4 +9,4 @@ I'm eager to get into more CSS because I like to design and make things nice. Mo
 
 ## iii. What is something about you that can only be learned by reading this blog?
 My birth name is **not** Tres or Phillips!
-<iframe src="https://giphy.com/embed/90F8aUepslB84" width="480" height="305" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/excited-parks-and-rec-andy-dwyer-90F8aUepslB84">via GIPHY</a></p>
+![](https://giphy.com/gifs/excited-parks-and-rec-andy-dwyer-90F8aUepslB84)
