@@ -32,3 +32,21 @@ This is being solved by understanding I dont have to know it all. Repetition has
 ## iii. What methods do you use to help yourself get unstuck?
 
 Walking away for a bit seems to help a lot. I tend to spend a lot of time with my plants and talking myself through whatever problem is at hand.
+
+
+# Week 3 - Time is flying!
+
+## What are your thoughts about the roles HTML, CSS, and JavaScript play in the process of rendering content and providing a user experience?
+
+I am in love with CSS. As a creative, I'm always looking for a new way to create. I love JS but I feel I have a lot to learn before I am confident in my abilities.
+
+## What are some objects that your blog incorporates?
+
+/ˈäbjək(t)/
+
+    1. object
+    a material thing that can be seen and touched.
+    "he was dragging a large object"
+
+    I do not believe my blog incorporates any object, seeing as it is online and not a thing that exists in the real world. 
+    Unless you consider my computer, then my blog incorporates my computer. :smile:
